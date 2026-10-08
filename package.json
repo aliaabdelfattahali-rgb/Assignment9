@@ -1,7 +1,7 @@
 {
   "name": "saraha app",
   "version": "1.0.0",
-  "description": "Simple Saraha-like anonymous messaging backend (Express + MongoDB + Mongoose)",
+  "description": "saraha app",
   "main": "index.js",
   "type": "module",
   "scripts": {
